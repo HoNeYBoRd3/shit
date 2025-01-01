@@ -1,0 +1,16 @@
+.text-center {
+  font-family: "Rubik Vinyl", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card{
+    margin: 20px;
+}
+.col{
+    display: flex;
+}
+
+.row{
+    justify-content: space-between;
+}
